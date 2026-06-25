@@ -3,3 +3,11 @@
 Please review the reason for this new relic respository. 
 
 I have shared vCenter NRQL queries and change the parameters based on your enviroment in your vSphere dahsboard
+
+Configuring New Relic can be a complex and time-consuming process because multiple integrations are available depending on the monitoring requirements. At MCD, we have a variety of workloads including infrastructure servers, SQL environments, vCenter, IIS-hosted .NET applications, non-IIS .NET applications, and custom application monitoring. As a result, the installation and configuration process differs depending on the use case.
+
+# One important prerequisite applies to all scenarios:
+
+The New Relic Infrastructure Agent must be installed and configured first before any additional integrations or monitoring components can be deployed.
+
+The following sections describe the common New Relic deployment scenarios within the MCD environment.
