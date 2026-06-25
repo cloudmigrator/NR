@@ -6,4 +6,4 @@ Configuring New Relic can be a complex and time-consuming process because multip
 
 The New Relic Infrastructure Agent must be installed and configured first before any additional integrations or monitoring components can be deployed.
 
-The following sections describe the common New Relic deployment scenarios within the MCD environment.
+Refer to the document attached for instructions. 
