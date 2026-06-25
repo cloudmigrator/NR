@@ -1,8 +1,4 @@
-# NR
-
-Please review the reason for this new relic respository. 
-
-I have shared vCenter NRQL queries and change the parameters based on your enviroment in your vSphere dahsboard
+# New Relic Oberservability 
 
 Configuring New Relic can be a complex and time-consuming process because multiple integrations are available depending on the monitoring requirements. At MCD, we have a variety of workloads including infrastructure servers, SQL environments, vCenter, IIS-hosted .NET applications, non-IIS .NET applications, and custom application monitoring. As a result, the installation and configuration process differs depending on the use case.
 
